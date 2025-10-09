@@ -1,14 +1,14 @@
-🧬 Análisis de Supervivencia y Modelado Predictivo en una Cohorte Oncológica
+**<h1>**🧬 Análisis de Supervivencia y Modelado Predictivo en una Cohorte Oncológica**</h1>**
 
 Integración de datos histológicos, clínicos y moleculares
 
-📘 Introducción
+📘 **Introducción**
 
 Este proyecto tiene como objetivo explorar, analizar y modelar la supervivencia en una cohorte oncológica mediante la integración de variables clínicas, histológicas y moleculares.
 El dataset contiene información de 95 pacientes en una cohorte de validación, donde cada fila representa a un paciente individual.
 
-📊 Descripción del Dataset
-🧾 Columnas principales
+📊 **Descripción del Dataset**
+🧾 **Columnas principales**
 
 - Patient ID: Identificador único (no se utiliza directamente en los modelos, pero es útil para trazabilidad).
 - Survival time (days): Tiempo de seguimiento hasta el evento o censura (variable principal en análisis de supervivencia).
@@ -23,7 +23,7 @@ El dataset contiene información de 95 pacientes en una cohorte de validación, 
 - Batch: Lote de muestra o experimento (útil para corregir sesgos técnicos).
 - EGFR / KRAS: Estado mutacional (Mutado / No mutado) – biomarcadores moleculares con valores faltantes.
 
-🎯 Objetivos del Proyecto
+🎯 **Objetivos del Proyecto**
 El dataset permite realizar estudios en tres grandes líneas:
 1. Análisis descriptivo y exploratorio
 2. Distribuciones de edad, sexo, tabaquismo y mutaciones.
@@ -35,7 +35,7 @@ El dataset permite realizar estudios en tres grandes líneas:
 8. Modelado predictivo (Machine Learning)
 9. Predicción de supervivencia mediante modelos de clasificación supervisada.
 
-🩺 Clasificación TNM (8ª edición)
+🩺 **Clasificación TNM (8ª edición)**
 - Estadio I (IA1, IA2, IA3, IB):
   Tumores pequeños sin ganglios ni metástasis. Generalmente curables con cirugía.
 
@@ -51,7 +51,7 @@ El dataset permite realizar estudios en tres grandes líneas:
 - Recurrence:
   Reaparición del cáncer tras tratamiento inicial. No es un estadio, sino una categoría clínica.
 
-🔬 Grado Histológico
+🔬** Grado Histológico**
 Describe la diferenciación celular del tumor:
 - Grado 1: Bien diferenciado (crecimiento lento, mejor pronóstico).
 
@@ -59,7 +59,7 @@ Describe la diferenciación celular del tumor:
 
 - Grado 3: Poco diferenciado o indiferenciado (crecimiento rápido, peor pronóstico).
 
-🤖 Modelado Predictivo
+🤖 **Modelado Predictivo**
 
 Se construyeron varios modelos de clasificación supervisada:
 
@@ -81,7 +81,7 @@ Las variables más relevantes fueron:
 - KRAS
 - Adjuvant.
 
-⚠️ Limitaciones:
+⚠️ **Limitaciones:**
 
 1. Tamaño pequeño del dataset.
 
@@ -89,7 +89,7 @@ Las variables más relevantes fueron:
 
 3. Posible falta de variables clave que expliquen la variabilidad.
 
-📚 Referencias
+📚 **Referencias**
 
 - Mi, Haoyang (2023). Clinical_Data. Figshare. Dataset. https://doi.org/10.6084/m9.figshare.22638145.v1
 
@@ -101,7 +101,7 @@ Las variables más relevantes fueron:
 
 - Git / GitHub
 
-🚀 Próximos pasos
+🚀 **Próximos pasos**
 
 1. Recolectar más datos para mejorar el rendimiento del modelo.
 
