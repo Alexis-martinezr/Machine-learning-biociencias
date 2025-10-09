@@ -1,4 +1,4 @@
-📂 **Portafolio de Proyectos de Machine Learning y Análisis Clínico**
+**<h1>**📂 **Portafolio de Proyectos de Machine Learning y Análisis Clínico****</h1>**
 
 Este repositorio contiene cuatro proyectos de análisis de datos clínicos y modelado predictivo utilizando técnicas de Machine Learning, Bioinformática y análisis estadístico. Cada proyecto está organizado en su propia carpeta, con un README.md detallado por proyecto.
 
