@@ -1,4 +1,4 @@
-**<h1>**Análisis de Registros Clínicos de Insuficiencia Cardíaca ❤️ **</h1>**
+**<h1>Análisis de Registros Clínicos de Insuficiencia Cardíaca ❤️ </h1>**
 
 Este proyecto analiza datos clínicos de pacientes con insuficiencia cardíaca, con el objetivo de construir modelos predictivos de supervivencia basados en variables clínicas clave.
 
