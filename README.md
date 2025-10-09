@@ -3,7 +3,8 @@
 Este repositorio contiene cuatro proyectos de análisis de datos clínicos y modelado predictivo utilizando técnicas de Machine Learning, Bioinformática y análisis estadístico. Cada proyecto está organizado en su propia carpeta, con un README.md detallado por proyecto.
 
 📝 **Proyectos incluidos**
-1️⃣ **Análisis de Supervivencia en Cohorte Oncológica**
+
+1️⃣ **Análisis de supervivencia y modelado predictivo en una cohorte oncológica integración de datos histológicos, variables clínicas y moleculares**
 
 - Carpeta: cancer_survival_analysis
 
